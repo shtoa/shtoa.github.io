@@ -19,6 +19,7 @@ body{
 .title{
     display:flex;
     align-items: center;
+    font-size: 125%;
 }
 .links{
     margin-left: auto;
@@ -31,7 +32,7 @@ body{
     display: flex;
     margin: 0 auto;
     margin-bottom: 10%;
-    width: 50%;
+    width: 80%;
     justify-content: center;
 }
 
