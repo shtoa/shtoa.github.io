@@ -1,0 +1,54 @@
+body{
+    margin: 0px auto;
+    width: min(70%, 1000px);
+    font-family: 'JetBrains Mono'; font-size: 22px;
+}
+
+.project {
+    display: flex;
+    margin: 10px auto;
+    padding: 5%;
+    background-color: whitesmoke;
+}
+
+.desc {
+    margin: 2.5%;
+    text-align: justify;
+}
+
+.title{
+    display:flex;
+    align-items: center;
+}
+.links{
+    margin-left: auto;
+}
+.links a{
+    text-decoration: none;
+}
+
+.ft{
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 10%;
+    width: 50%;
+    justify-content: center;
+}
+
+.ft-links{
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.ft-links li{
+    width: 100%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+h5{
+    font-style: italic;
+    margin-bottom: 2%;
+}
